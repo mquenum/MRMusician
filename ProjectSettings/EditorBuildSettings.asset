@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Level/Scenes/TestPassthrough.unity
     guid: 2d3de131df981f04fba856f2ed03b21e
+  - enabled: 1
+    path: Assets/Level/Scenes/01 - PianoScene.unity
+    guid: af63975cf0d52cb41bd04c8443dc0ad5
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d2cb9a9b628f63a4e98e709b11af1703,
       type: 2}
